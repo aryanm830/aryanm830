@@ -7,7 +7,7 @@
   
 <img align="center" src="https://discord.c99.nl/widget/theme-2/884067115110395925.png " alt="Discord"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FC⚡Aryan†ᴳᵂ&label=Profile%20views&color=0e75b6&style=flat" alt="FC⚡Aryan†ᴳᵂ" /> </p>
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/884067115110395925.png" alt="aryanop"/> </p>
 - 🔭 I’m currently working on a music app.  
   
 
