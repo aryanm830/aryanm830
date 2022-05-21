@@ -5,9 +5,9 @@
 
 ### <div align="center">I'm ARYAN, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
   
-<img align="center" src="https://discord.c99.nl/widget/theme-3/884067115110395925.png "/>
 
-<p align="left"> <img src="https://discord.c99.nl/widget/theme-2/884067115110395925.png" alt="aryanop"/> </p>
+
+<p align="left"> <img src="https://discord.c99.nl/widget/theme-3/884067115110395925.png" alt="aryanop"/> </p>
 - 🔭 I’m currently working on a music app.  
   
 
