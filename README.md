@@ -7,7 +7,7 @@
   
 
 
-<p align="left"> <img src="https://discord.c99.nl/widget/theme-3/884067115110395925.png" alt="aryanop"/> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/884067115110395925.png" alt="aryanop"/> </p>
 - 🔭 I’m currently working on a music bot.  
   
 
