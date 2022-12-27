@@ -17,7 +17,7 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!.
   
 
-<p align= "center"><iframe src="https://discord.com/widget?id=805734218122264606&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></p>
+<iframe src="https://discord.com/widget?id=805734218122264606&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/wrCzESkVzK) 
 
