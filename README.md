@@ -37,7 +37,9 @@
 </p>
 
 <p align="left">
-[![](https://visitcount.itsvg.in/api?id=aryanopdev&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aryanopdev&label=Profile%20Views&icon=2&pretty=true" />
+</a>
 </p>
 
 
