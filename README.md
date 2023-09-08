@@ -1,43 +1,53 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+## 🚀 About Me
+🎓 I am Aryan Menghare, a **Front End Developer** (specializing in **JavaScript Applications**)
 
-### <div align="center">I'm ARYAN, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2020 on Bots 🚀</div>  
-  
+📚 I am currently preparing for **JEE** & pursuing my Dreams
+
+⭐ I am an **Open Source Contributor** as well as a professional **Discord Bot Developer**
+## 🏅 Achievements
+🏆 Developer of **ReeF Bot** Having more Than **1,000,000+** users
+
+## 🛠️ Skills
+### Languages
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Softwares
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
+## 📈 Stats
+
+<div align="left">
+    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=aryanopdev&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
+<br />
+<br />
+</div>
+<p align="left">
+    <a href="https://git.io/streak-stats">
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanopdev&theme=tokyonight"/>
+    </a>
+</p>
+<p align="left"> 
+<a href="https://github.com/aryanopdev">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanopdev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="left">
+<img height="40em" src="https://komarev.com/ghpvc/?username=aryanopdev&color=brightblue" alt="watching_count">
+</p>
 
 
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/986244626266587158/1057258985352347768/Banner.png" alt="aryanop"/> </p>
-- 🔭 I’m currently working on a music bot.  
-  
+## 🔗 Contact
 
-- 🌱 I’m currently coding in Javascript and Java.  
-  
-
-- ❓  I am in love with coding Discord Bots, I also love helping!.
-  
+[![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/884067115110395925)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/drix10)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riftfiree/)
 
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/wrCzESkVzK) 
+## 🖥️ Status
 
-# 💻Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ARYANOP-Radio&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ARYANOP-Radio&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANOP-Radio&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ARYANOP-Radio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ARYANOP-Radio&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/radioop) 
-
-  <!-- Proudly created with ❤️-->
-  
-
-<br/>  
+![Discord](https://discord.c99.nl/widget/theme-2/884067115110395925.png)
