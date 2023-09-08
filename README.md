@@ -37,7 +37,7 @@
 </p>
 
 <p align="left">
-<img height="40em" src="https://komarev.com/ghpvc/?username=aryanopdev&color=brightblue" alt="watching_count">
+<img height="40em" src="https://komarev.com/ghpvc/?username=aryanopdev&color=brightgreen" alt="watching_count">
 </p>
 
 
