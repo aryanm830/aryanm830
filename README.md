@@ -37,7 +37,7 @@
 </p>
 
 <p align="left">
-<img height="40em" src="https://komarev.com/ghpvc/?username=aryanopdev&color=brightgreen" alt="watching_count">
+[![](https://visitcount.itsvg.in/api?id=aryanopdev&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 </p>
 
 
