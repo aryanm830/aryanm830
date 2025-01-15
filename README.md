@@ -1,5 +1,5 @@
 ## 🚀 About Me
-🎓 I am Aryan Menghare, a **Front End Developer** (specializing in **JavaScript Applications**)
+🎓 I am Aryan Menghare, a **Full Stack Developer** (specializing in **JavaScript Applications**)
 
 📚 I am currently preparing for **JEE** & pursuing my Dreams
 
@@ -21,24 +21,24 @@
 ## 📈 Stats
 
 <div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=aryanopdev&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
+    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=aryanm830&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
 <br />
 <br />
 </div>
 <p align="left">
     <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanopdev&theme=tokyonight"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanm830&theme=tokyonight"/>
     </a>
 </p>
 <p align="left"> 
-<a href="https://github.com/aryanopdev">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanopdev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/aryanm830">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanm830&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <p align="left">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aryanopdev&label=Profile%20Views&icon=2&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=aryanm830&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 </p>
 
@@ -46,7 +46,7 @@
 ## 🔗 Contact
 
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/884067115110395925)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/aryanopdev)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aryanm830@proton.me)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riftfiree/)
 
 
