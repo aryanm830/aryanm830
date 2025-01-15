@@ -20,27 +20,20 @@
 ![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
 ## 📈 Stats
 
-<div align="left">
+<div align="center">
     <img height="130em" src="https://github-profile-trophy.vercel.app/?username=aryanm830&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
 <br />
 <br />
 </div>
-<p align="left">
-    <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://streak-stats.demolab.com/?user=aryanm830&theme=tokyonight"/>
-    </a>
+<p align="center">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aryanm830&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/aryanm830">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryanm830&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<p align="left">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aryanm830&label=Profile%20Views&icon=2&pretty=true" />
-</a>
-</p>
 
 
 ## 🔗 Contact
