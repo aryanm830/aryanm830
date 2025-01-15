@@ -27,7 +27,7 @@
 </div>
 <p align="left">
     <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanm830&theme=tokyonight"/>
+        <img height="160em" src="https://streak-stats.demolab.com/?user=aryanm830&theme=tokyonight"/>
     </a>
 </p>
 <p align="left"> 
