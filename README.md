@@ -1,11 +1,10 @@
 ## 🚀 About Me
 🎓 I am Aryan Menghare, a **Full Stack Developer** (specializing in **JavaScript Applications** & **MERN Stack**)
 
-📚 I am currently preparing for **JEE** & pursuing my Dreams
-
 ⭐ I am an **Open Source Contributor** as well as a professional **Discord Bot Developer**
 ## 🏅 Achievements
 🏆 Founder & Developer of **ReeF Bot** Having more Than **1,000,000+** users <br />
+🏆 Founder & Developer of **EternaVaultX** <br />
 🏆  Developer of **Avon Music** Having more Than **3,000,000+** users
 ## 🛠️ Skills
 
@@ -62,9 +61,6 @@
 
 [![discord](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/884067115110395925)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aryanm830@proton.me)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riftfiree/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srujalmenghare)
 
 
-## 🖥️ Status
-
-![Discord](https://discord.c99.nl/widget/theme-2/884067115110395925.png)
